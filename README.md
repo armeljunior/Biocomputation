@@ -21,3 +21,15 @@ These are all encoded within the script showing different instances of mutation,
 
 
 ![Figure 2022-11-05 201502](https://user-images.githubusercontent.com/90009399/200139204-cdef0775-67cd-4432-a3cf-22b6f0f03f11.png)
+
+
+
+**Greater Population higher mutation** 
+
+![single point](https://user-images.githubusercontent.com/90009399/200139590-8040317a-cca8-4e87-9249-c52b185d4f83.png)
+
+
+
+
+
+
