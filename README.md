@@ -7,11 +7,11 @@ This notion can be applied for a search problem. We consider a set of solutions 
 
 Five phases are considered in a genetic algorithm.
 
-Initial population
-Fitness function
-Selection
-Crossover
-Mutation
+- Initial population
+- Fitness function
+- Selection
+- Crossover
+- Mutation
 
 These are all encoded within the script showing different instances of mutation, crossover, and tournament selection.
 
