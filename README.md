@@ -14,3 +14,10 @@ Crossover
 Mutation
 
 These are all encoded within the script showing different instances of mutation, crossover, and tournament selection.
+
+
+**Output**
+
+
+
+![Figure 2022-11-05 201502](https://user-images.githubusercontent.com/90009399/200139204-cdef0775-67cd-4432-a3cf-22b6f0f03f11.png)
