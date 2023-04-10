@@ -1,5 +1,7 @@
 # Biocomputation
 
+Genetic algorithm (GA) is a metaheuristic procedure inspired by Charles Darwin’s natural selection theory. The task set at hand is to implement this algorithm into our own generated set of problem to come up with a solution of our own based on a set of criteria which are to be adjusted. As the GA scans through the function set to us, a solution will become calculated, and each candidate must be evaluated to see the work has been done. To then compare the results assuming the ability to create multiple ‘fitness functions’ and understand why our readings and results would give the graph or data produced. Moreover, adding variation to data would significantly differ, such as changing the mutation rate and others.
+
 Overview of the different learning algorithms and knowledge representations to be considered – intelligence at the level of populations/multiple agents, individuals/agents, and within agent components
 The process of natural selection starts with the selection of fittest individuals from a population. They produce offspring which inherit the characteristics of the parents and will be added to the next generation. If parents have better fitness, their offspring will be better than parents and have a better chance at surviving. This process keeps on iterating and at the end, a generation with the fittest individuals will be found.
 
